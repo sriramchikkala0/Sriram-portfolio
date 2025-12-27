@@ -112,7 +112,7 @@ Role: Data Analyst
 
 Skills: Python, SQL, Power BI, Excel
 
-LinkedIn: lnkedin.com/in/sriram-chikkala19/
+LinkedIn:https://www.linkedin.com/in/sriram-chikkala19/
 
 GitHub: https://github.com/sriramchikkala0
 
