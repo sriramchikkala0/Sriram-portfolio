@@ -20,7 +20,7 @@ const Education: React.FC = () => {
             <p className="text-lg text-slate-700 dark:text-slate-300 mb-2">Bonam Venkata Chalamayya Engineering College (JNTUK)</p>
             <div className="flex items-center gap-4">
               <span className="px-3 py-1 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded text-sm font-semibold text-slate-600 dark:text-slate-400">
-                CGPA: 6.84
+                CGPA: 7.00
               </span>
               <span className="text-slate-500 dark:text-slate-400 text-sm flex items-center gap-1">
                 <i className="fas fa-location-dot"></i> Odalarevu, Andhra Pradesh
