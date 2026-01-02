@@ -29,7 +29,7 @@ const About: React.FC = () => {
               </p>
               <div className="pt-6">
                 <a 
-                  href="resume.pdf" 
+                  href="/resume.pdf" 
                   download
                   className="inline-flex items-center gap-2 px-6 py-3 bg-blue-700 text-white font-bold rounded-xl hover:bg-blue-800 transition shadow-lg shadow-blue-500/20 active:scale-95"
                 >
