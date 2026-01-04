@@ -26,7 +26,7 @@ const Hero: React.FC = () => {
             <h1 className="text-6xl md:text-[5.5rem] font-black text-slate-900 dark:text-white mb-6 leading-[0.95] tracking-tighter">
               Sri Ram<br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-700 via-indigo-600 to-blue-800 dark:from-blue-400 dark:via-indigo-400 dark:to-blue-600">
-                Krishna Sai
+                Krishna Sai 
               </span>
             </h1>
 
