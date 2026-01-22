@@ -1,20 +1,20 @@
-📊 Sriram | Professional Data Analyst Portfolio
+📊 Sriram Chikkala — Data Analyst Portfolio
 
-A modern, responsive Data Analyst Portfolio Website built with React + TypeScript + Vite, designed to professionally showcase my skills, projects, experience, and certifications in data analytics.
+A modern, responsive Data Analyst Portfolio Website built with React, TypeScript, and Vite, designed to professionally showcase my analytics skills, projects, internship experience, and certifications.
 
-This portfolio highlights my ability to transform data into insights and present them through clean design and structured storytelling.
+This portfolio demonstrates my ability to analyze data, extract insights, and present results through structured dashboards and clean UI design.
 
 🌐 Live Website
+
 https://sriramchikkala.online/
 
+👤 About
 
-🧑‍💼 About Me
+Name: Sriram Chikkala
+Role: Data Analyst
+Core Skills: SQL, Python, Power BI, Excel
 
-Name: Sriram
-Role: Aspiring Data Analyst
-Core Skills: Python, SQL, Power BI, Excel
-
-I am passionate about data-driven decision-making and building analytical solutions that solve real business problems. This portfolio reflects my learning journey, projects, and technical capabilities as a fresher data analyst.
+I am an entry-level Data Analyst with hands-on experience in data cleaning, exploratory data analysis, and dashboard development. This portfolio reflects my academic projects, industrial internship exposure, and ability to translate raw data into actionable business insights.
 
 🛠️ Tech Stack
 Category	Tools
@@ -26,29 +26,17 @@ Deployment	Vercel (Custom Domain)
 Version Control	Git & GitHub
 ✨ Key Features
 
-Fully responsive & modern UI
+Fully responsive, modern UI
 
-Professional hero section with profile image
+Clean, component-based architecture
 
-Dedicated sections for:
+Dedicated sections for About, Skills, Projects, Experience, Certifications, and Contact
 
-About
+Interactive project showcase with downloadable certificates
 
-Skills
+SEO-friendly and performance-optimized build
 
-Projects
-
-Experience
-
-Certifications
-
-Contact
-
-Interactive project showcase
-
-SEO-optimized and performance-focused
-
-Clean, scalable component-based architecture
+Deployed on Vercel with a custom domain
 
 📁 Project Structure
 src/
@@ -64,13 +52,15 @@ src/
 │   └── Footer.tsx
 ├── App.tsx
 ├── main.tsx
+
 public/
-└── profile.png
+├── profile.png
+└── certificates/
 
 🚀 Getting Started (Local Setup)
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/sriramchikkala0/Sriram-portfolio
+cd Sriram-portfolio
 
 2️⃣ Install Dependencies
 npm install
@@ -79,7 +69,7 @@ npm install
 npm run dev
 
 
-Open in your browser:
+Open in browser:
 
 http://localhost:3000
 
@@ -87,7 +77,7 @@ http://localhost:3000
 npm run build
 
 
-Production-ready files will be generated inside the dist/ folder.
+Production-ready files will be generated in the dist/ directory.
 
 🌐 Deployment (Vercel)
 
@@ -105,37 +95,25 @@ Set output directory: dist
 
 Connect custom domain
 
-🎯 Customization Guide
+🎯 Customization
 
-Update content inside individual components in src/components/
+Update content inside src/components/
 
-Replace public/profile.png with your own professional image
+Replace public/profile.png with your own image
 
-Modify Tailwind CSS classes for design changes
+Modify Tailwind CSS classes for styling changes
 
-Update project data in Projects.tsx
+Add or edit projects inside Projects.tsx
+
+Add certificates as PDFs inside public/certificates/
 
 📬 Contact & Links
 
-Name: Sriram
+Portfolio: https://sriramchikkala.online/
 
-Role: Data Analyst
+LinkedIn: https://www.linkedin.com/in/sriram-chikkala19/
 
-Skills: Python, SQL, Power BI, Excel
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/sriram-chikkala19/
-
-💻 GitHub:
-https://github.com/sriramchikkala0
-
-⭐ Acknowledgements
-
-Inspired by modern data analytics portfolios
-
-Built to showcase analytical and technical skills professionally
-
-Designed with recruiter and ATS-friendly structure in mind
+GitHub: https://github.com/sriramchikkala0
 
 📄 License
 
