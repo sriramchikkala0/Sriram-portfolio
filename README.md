@@ -5,9 +5,8 @@ A modern, responsive Data Analyst Portfolio Website built with React + TypeScrip
 This portfolio highlights my ability to transform data into insights and present them through clean design and structured storytelling.
 
 🌐 Live Website
+https://sriramchikkala.online/
 
-🚧 Deployment coming soon
-(Will be hosted on Vercel with a custom domain)
 
 🧑‍💼 About Me
 
