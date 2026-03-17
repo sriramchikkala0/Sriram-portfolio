@@ -23,7 +23,7 @@ const Experience: React.FC = () => {
                </div>
                <div className="text-right">
                   <span className="inline-block px-4 py-1.5 bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-400 text-sm font-bold rounded-full border border-blue-200 dark:border-blue-800 uppercase tracking-wider">
-                    Ongoing
+                    
                   </span>
                </div>
             </div>
